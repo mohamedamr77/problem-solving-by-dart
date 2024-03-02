@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+//optinal paremeter come in last parameter
+import 'dart:io';
+>>>>>>> 7c291c64418b3ff7316c3e3086d5ca55c3825980
 void main(){
     print(calculteFinalPrice(100));
 }
