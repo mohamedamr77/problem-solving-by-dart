@@ -1,3 +1,4 @@
+//optinal paremeter come in last parameter
 import 'dart:io';
 void main(){
     print(calculteFinalPrice(100));
