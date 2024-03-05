@@ -1,8 +1,8 @@
-class Human{
+class Human1{
   int? age;
   String? hairColor;
   int? _numberOfArm=1;
-  Human({ required this.age,required this.hairColor});
+  Human1({ required this.age,required this.hairColor});
   set numberOfArm(int numberOfArm){
     if(numberOfArm<=2&&numberOfArm>=0)
       {

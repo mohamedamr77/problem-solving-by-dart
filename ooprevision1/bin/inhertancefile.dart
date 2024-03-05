@@ -1,8 +1,9 @@
-class Anmial{
+abstract class Anmial{
     String? _name;
     String? _Habitat;
     int? _age;
     double? _weight;
+
 
      set name(String name) => _name=name;
      set Habitat(String Habitat) => _Habitat=Habitat;
@@ -11,9 +12,7 @@ class Anmial{
     String get Habitat =>_Habitat!;
 
     int get age=>_age!;
-    eat(){
-        print("I'm eat meat");
-    }
+    eat();
     Run(){
         print("the animal run fast");
     }
