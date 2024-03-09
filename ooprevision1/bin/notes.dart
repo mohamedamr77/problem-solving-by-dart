@@ -100,4 +100,13 @@ some of note
 
    late keyward :
 لو متاكد ان  attribute  مش nullable و هعطيه قيمه بعدين فى الكود
+
+
+
+
+
+
+
+
+
 */

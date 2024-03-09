@@ -5,21 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b3608e16-35db-46f1-acca-e911c125892c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Square.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/abstractclass.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/dog.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/implementclass.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/namedConstructor.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/notes.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/inhertancefile.dart" beforeDir="false" afterPath="$PROJECT_DIR$/bin/inhertancefile.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/lion.dart" beforeDir="false" afterPath="$PROJECT_DIR$/bin/lion.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/ooprevision1.dart" beforeDir="false" afterPath="$PROJECT_DIR$/bin/ooprevision1.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/privatclass1.dart" beforeDir="false" afterPath="$PROJECT_DIR$/bin/privatclass1.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ooprevision1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ooprevision1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/notes.dart" beforeDir="false" afterPath="$PROJECT_DIR$/bin/notes.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +23,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2dRtro3GvcGnoPpEBo82TK0H6vQ" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -48,6 +43,7 @@
     "WebServerToolWindowFactoryState": "false",
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/moamr/Documents/Language/problem solvig/ooprevision1",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -64,11 +60,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1709668194845</updated>
-      <workItem from="1709668195873" duration="7990000" />
+      <workItem from="1709668195873" duration="8473000" />
+      <workItem from="1709982924507" duration="156000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
