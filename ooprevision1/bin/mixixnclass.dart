@@ -1,12 +1,3 @@
-import 'dart:io';
-void main(){
-  Animal snake=Animal(numebrOfLambs: 3);
-Snake s=Snake(
-  numebrOfLambs: 2,
-);
-  print(s.numebrOfLambs);
-}
-
 class Animal{
   int? _numebrOfLambs ;
   Animal({required int? numebrOfLambs}){
