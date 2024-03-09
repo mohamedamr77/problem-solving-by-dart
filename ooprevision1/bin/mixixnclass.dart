@@ -14,10 +14,16 @@ class Animal{
   }
   get numebrOfLambs => _numebrOfLambs;
 }
+mixin pets{
+
+}
+mixin friendly{
+
+}
 mixin Mammals{
   crawl(){}
 }
-class Dog extends Animal {
+class Dog extends Animal with pets , friendly{
   Dog({required super.numebrOfLambs});
 }
 class Cat extends Animal{

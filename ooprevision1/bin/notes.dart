@@ -25,7 +25,7 @@ some of note
 11.after make attribute private we need to give attribute value => by set
 
 12. Official form set => set name_Of_Attribute_without_underscore () {}
-
+  
 13. arrow function => we use it when have one statement
 
 14. how to use arrow function  => click ( = + >)
@@ -101,12 +101,17 @@ some of note
    late keyward :
 لو متاكد ان  attribute  مش nullable و هعطيه قيمه بعدين فى الكود
 
-
-
-
-
-
-
-
+Mixin => 
+  (multi inhertance بستخدمها لو انا عندى فى الكلاس الاساسى الاب حاجه مش عايزها تبقا موجوده فى الابناء (فالمفروض بحط الحاجه المختلفه دى فى كلاس لوحدهاو اعمل 
+        Mixin فبنسخدم  (multi inhertance) لكن لغة دارت مش بتدعم  
+Official form Mixin =>
+                1.  The basic  class => class name_class
+                2.  The second class => mixin name_class
+                3.  The  Son   class => class name_Son extends name_basic_class with name_mixin _class
+ if we have more mixin class :
+               4.      The  Son   class => class name_Son extends name_basic_class with name_mixin _class1, name_mixin _class1         
+for example :
+              see the file mixinclass                
+  
 
 */
