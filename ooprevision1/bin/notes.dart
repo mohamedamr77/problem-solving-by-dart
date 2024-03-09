@@ -113,5 +113,16 @@ Official form Mixin =>
 for example :
               see the file mixinclass                
   
+  enum =>  بنستخدمه لما نبقا عارفين القيم  بتاعة المتغير وتبقا محدوده مثلا ايام الاسبوع و هكذا
+  enum => write out main
+  Official form enum =>
+                enum name_enum{
+                  //body 
+                  note : we not write String with qution  as : "",''
+                }
+    in main call enum :
+       name_enum name=name_enum.thing_in_body;            
+
+
 
 */
